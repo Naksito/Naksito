@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Naksito
 - 👀 I’m interested in video games, music, consoles and computers
 - 🌱 I’m currently learning Computer science
-- 📫 How to reach me: @Naksito on Twitter or @kitaichechaiche on Instagram
+- 📫 How to reach me: @Naksito on Twitter
 
 <!---
 Naksito/Naksito is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
